@@ -171,3 +171,74 @@ travel - 5
 with children - 3 - relationship is ok, low respect
 
 work skills - 5
+
+## Summary
+
+* 1 - ability to be leader of family - 1
+* 1 - appearance - 1
+* 1 - asking about others - 1
+* 1 - budget - 1
+* 1 - cynicism - 1
+* 1 - family leadership - 1
+* 1 - finances - 1
+* 1 - friends - 1
+* 1 - gratitude - 1
+* 1 - hobbies - 1
+* 1 - life skills - 1
+* 1 - physical health - 1
+* 1 - relationships - 1
+* 1 - respect of family - 1
+* 1 - sense of purpose/meaning - 1
+* 1 - sincerity - 1
+* 1 - social - 1
+* 1 - spare time - 1
+* 1 - strength - 1
+* 2 - charity - 2
+* 2 - clear family direction - 2
+* 2 - compassion - 2
+* 2 - cool skills - 2
+* 2 - deliberateness of action - 2
+* 2 - emotional control - 2
+* 2 - endurance - 2
+* 2 - extended family - 2
+* 2 - fun - 2
+* 2 - happiness - 2
+* 2 - health - 2
+* 2 - helping family members grow - 2
+* 2 - influence - 2
+* 2 - marriage - 2
+* 2 - network - 2
+* 2 - passive participant in life or swimming toward something - 2
+* 2 - personal growth - 2
+* 2 - savings - 2
+* 2 - self-discipline - 2
+* 3 - Stoicism - 3
+* 3 - business - 3
+* 3 - character - 3
+* 3 - confidence - 3
+* 3 - conversation skills - 3
+* 3 - dependability - 3
+* 3 - diet - 3
+* 3 - family - 3
+* 3 - family joy - 3
+* 3 - focus - 3
+* 3 - future plans/dreams - 3
+* 3 - growth - 3
+* 3 - learning - 3
+* 3 - mental health - 3
+* 3 - new things - 3
+* 3 - reputation - 3
+* 3 - respect of strangers - 3
+* 3 - speaking ability - 3
+* 3 - with children - 3
+* 4 - boldness - 4
+* 4 - bravery - 4
+* 4 - family strength - 4
+* 4 - respect of coworkers - 4
+* 4 - situational awareness - 4
+* 4 - thoughtfullness - 4
+* 5 - career - 5
+* 5 - self-awareness - 5
+* 5 - skills - 5
+* 5 - travel - 5
+* 5 - work skills - 5
