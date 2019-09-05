@@ -193,6 +193,7 @@ work skills - 5
 * 1 - social - 1
 * 1 - spare time - 1
 * 1 - strength - 1
+
 * 2 - charity - 2
 * 2 - clear family direction - 2
 * 2 - compassion - 2
@@ -212,6 +213,7 @@ work skills - 5
 * 2 - personal growth - 2
 * 2 - savings - 2
 * 2 - self-discipline - 2
+
 * 3 - Stoicism - 3
 * 3 - business - 3
 * 3 - character - 3
@@ -231,14 +233,125 @@ work skills - 5
 * 3 - respect of strangers - 3
 * 3 - speaking ability - 3
 * 3 - with children - 3
+
 * 4 - boldness - 4
 * 4 - bravery - 4
 * 4 - family strength - 4
 * 4 - respect of coworkers - 4
 * 4 - situational awareness - 4
 * 4 - thoughtfullness - 4
+
 * 5 - career - 5
 * 5 - self-awareness - 5
 * 5 - skills - 5
 * 5 - travel - 5
 * 5 - work skills - 5
+
+## Solutions
+
+* 1 - appearance - 1 fat, ungroomed, shit wardrobe, cast, jacked feet
+  cardio
+  quit beer
+  more water
+  more sleep
+  shave
+  keep hair cut
+  pumice feet
+  get a tan
+  start wearing nicer clothes
+
+* 1 - physical health - 1
+  cardio
+  quit beer
+  more water
+  more sleep
+  stop snacking
+  avoid sugar
+
+* 1 - strength - 1
+  body weight training
+  free weights once the cast is off
+  good food
+
+* 1 - sense of purpose/meaning - 1 - focused on all the bad
+  focus outwardly
+  help family with their goals
+  define goals of my own
+
+* 1 - ability to be leader of family - 1 - I have no vision, poor health, and don't
+know what to do.
+  read blogs
+  listen to articles
+  address health
+  actively learn what it takes to lead a family
+  connect with ASD dad group
+
+* 1 - family leadership - 1 - too passive, just allow wife to make decisions then I
+support, need to decide direction and lead
+  make plans
+  be decisive
+  present plans before asked
+  decide what I want, communicate it, create plans together
+  ask what wife wants and facilitate making it happen
+
+* 1 - respect of family - 1
+  stay calm
+  be kind
+  do small things to show love
+  learn how to gain respect
+  respect myself, establish and maintain boundaries
+  make promises and deliver (rewards and punishments)
+  absorb attacks and never return them
+  apologize as needed
+  do not threaten, yell, argue - maintain decorum
+
+* 1 - cynicism - 1
+  practice not-so-random acts of gratitude
+  focus on the positive
+  learn about something random
+  listen to pop music and find good in it
+  look at a crowd and practice not judging people
+  meditate
+  recognize when I'm being cynical
+  explain something I don't agree with from their perspective
+
+* 1 - gratitude - 1
+  journal
+  deliberate time to count blessings
+  express things to others
+  actively practice finding things to be grateful for
+
+* 1 - sincerity - 1 sarcastic or silly almost always
+  limit clever responses
+  no emojis
+  avoid sarcasm
+  say thank you alone
+  answer simple yes/no
+  write a heartfelt email
+
+## Grouped
+
+* 1 - appearance - 1
+* 1 - physical health - 1
+* 1 - strength - 1
+
+* 1 - sense of purpose/meaning - 1
+* 1 - ability to be leader of family - 1
+* 1 - family leadership - 1
+* 1 - respect of family - 1
+
+* 1 - cynicism - 1
+* 1 - gratitude - 1
+* 1 - sincerity - 1
+
+* 1 - budget - 1
+* 1 - finances - 1
+
+* 1 - relationships - 1
+* 1 - friends - 1
+* 1 - social - 1
+* 1 - asking about others - 1
+
+* 1 - hobbies - 1
+* 1 - life skills - 1
+* 1 - spare time - 1
