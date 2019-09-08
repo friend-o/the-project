@@ -316,6 +316,7 @@ support, need to decide direction and lead
   explain something I don't agree with from their perspective
 
 * 1 - gratitude - 1
+  https://gratefulness.org/resource/what-is-gratitude/
   journal
   deliberate time to count blessings
   express things to others
@@ -339,15 +340,23 @@ support, need to decide direction and lead
 * 1 - ability to be leader of family - 1
 * 1 - family leadership - 1
 * 1 - respect of family - 1
+  Daily individual focused time.
 
 * 1 - cynicism - 1
 * 1 - gratitude - 1
 * 1 - sincerity - 1
+`Write a letter to my dad.
 
+* 1 - appearance - 1
 * 1 - budget - 1
 * 1 - finances - 1
+  Get a will, life insurance.
+  combine 401ks
+  Fully fund ira
+  open Amanda's IRA
 
 * 1 - relationships - 1
+  Give wife a back rub (that doesn't lead to sex).
 * 1 - friends - 1
 * 1 - social - 1
 * 1 - asking about others - 1
