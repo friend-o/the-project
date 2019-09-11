@@ -347,13 +347,18 @@ support, need to decide direction and lead
 * 1 - sincerity - 1
 `Write a letter to my dad.
 
-* 1 - appearance - 1
 * 1 - budget - 1
 * 1 - finances - 1
   Get a will, life insurance.
   combine 401ks
+    https://www.chrishogan360.com/what-do-i-do-with-my-old-401k/
   Fully fund ira
   open Amanda's IRA
+  close unused USAA accounts
+  https://investor.vanguard.com/investing/online-trading/add-money
+  verify vanguard account info
+    setup automatic investments - Vanguard S&P 500 ETF (VOO)
+
 
 * 1 - relationships - 1
   Give wife a back rub (that doesn't lead to sex).
