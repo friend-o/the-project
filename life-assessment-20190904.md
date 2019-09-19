@@ -355,7 +355,6 @@ support, need to decide direction and lead
   Fully fund ira
   open Amanda's IRA
   close unused USAA accounts
-  https://investor.vanguard.com/investing/online-trading/add-money
   verify vanguard account info
     setup automatic investments - Vanguard S&P 500 ETF (VOO)
 
