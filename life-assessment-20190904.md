@@ -345,7 +345,7 @@ support, need to decide direction and lead
 * 1 - cynicism - 1
 * 1 - gratitude - 1
 * 1 - sincerity - 1
-`Write a letter to my dad.
+  Write a letter to my dad.
 
 * 1 - budget - 1
 * 1 - finances - 1
@@ -358,9 +358,7 @@ support, need to decide direction and lead
   verify vanguard account info
     setup automatic investments - Vanguard S&P 500 ETF (VOO)
 
-
 * 1 - relationships - 1
-  Give wife a back rub (that doesn't lead to sex).
 * 1 - friends - 1
 * 1 - social - 1
 * 1 - asking about others - 1
